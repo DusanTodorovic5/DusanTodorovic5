@@ -7,7 +7,7 @@ Enthustiastic, responsible and hard working person,
 being worked for different projects helped me to adapt to the changes quickly and made
 me great team worker.
 
-## Currently working on small GUI framework using SFML and C++ 
+## Currently working on android application for Fuzzy Logic
 
 ## Languages
 

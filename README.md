@@ -1,6 +1,6 @@
 ## Hi, I'm Dušan Todorović :wave:
 
-Third year software engineering student at Electrotechnical faculty in University of
+Fourth-year Software Engineering student at Electrotechnical faculty in University of
 Belgrade. 
 
 Enthustiastic, responsible and hard working person,

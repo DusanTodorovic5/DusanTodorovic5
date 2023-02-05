@@ -8,7 +8,7 @@ Most of my projects are done in C++17(and adapting to C++20). Except of C++, I e
 
 I enjoy computer graphics and do it as a hobby, making games or simulations.
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DusanTodorovic5)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

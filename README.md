@@ -1,7 +1,5 @@
 ## Hi, I'm Dušan Todorović :wave:
 
-I'm a Systems Engineer based in Munich, obsessed with high-performance computing and the intersection of math and silicon.
-
 * **Current Focus:** GPU-driven development and low-latency systems.
 * **Background:** Ex-BlackRock (FinTech) & HFT startup experience.
 * **Philosophy:** Pragmatic, TDD-driven, and fascinated by hardware acceleration. Deeply influenced by Stoicism and Absurdism.
